@@ -1,8 +1,8 @@
 # 🌌 ⚔️ ARCHITECTURE: CONSTANT POINTER HANDLING IN C++ ⚔️ 🌌
 
 <p align="center">
-  <a href="https://github.com/naumanrazzaq-dot">
-    <img src="https://img.shields.io/badge/DEVELOPER-M.%20NAUMAN-00FFCC?style=for-the-badge&logo=github&logoColor=black" alt="Developer" />
+  <a href="https://github.com/awaiss-3553">
+    <img src="https://img.shields.io/badge/DEVELOPER-M.%20Awais-00FFCC?style=for-the-badge&logo=github&logoColor=black" alt="Developer" />
   </a>
   <img src="https://img.shields.io/badge/CORE--ENGINE-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SECURITY-READ--ONLY%20PTR-FF9900?style=for-the-badge" alt="Security" />
